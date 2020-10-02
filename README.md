@@ -17,9 +17,11 @@ The details of these projects and the scope of each project are listed in the se
 o	Visualize the rating data by user of user id = 2696
 *	Perform machine learning on first 500 extracted records
 •	Use the following features:
+
 o	movie id
 o	age
 o	occupation
 *	Use rating as label
 *	Create train and test data set and perform the following:
+
 •	Create a histogram for movie, age, and occupation
