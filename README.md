@@ -1,6 +1,6 @@
 # Movielens
 
-The GroupLens Research Project is a research group in the Department of Computer Science and Engineering in the University of Minnesota. The researchers of this group are involved in many research projects related to the fields of information filtering, collaborative filtering, and recommender systems. Here, we ask you to perform the analysis using the Exploratory Data Analysis technique. 
+The GroupLens Research Project is a research group in the Department of Computer Science and Engineering in the University of Minnesota. The researchers of this group are involved in many research projects related to the fields of information filtering, collaborative filtering, and recommender systems. Here, we ask you to perform the analysis using the Exploratory Data Analysis techniques and ML Classification Algorithms like Decision Tree and Random Forest.
 
 The details of these projects and the scope of each project are listed in the sections below.
 *	Data acquisition of the movielens dataset
